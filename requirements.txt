@@ -1,0 +1,41 @@
+# PDF processing
+PyPDF2
+pdfplumber
+PyMuPDF
+
+# Slide generation
+python-pptx
+Pillow
+
+# arXiv download
+arxiv
+
+# Tokenization
+tiktoken
+
+# Agent framework
+crewai
+crewai-tools
+
+# LangChain stack (optional)
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# LLM Providers
+openai
+ollama
+langchain-groq
+groq
+
+# RAG & verification
+sentence-transformers
+faiss-cpu
+
+# Utilities
+PyYAML
+python-dotenv
+rich
+loguru
